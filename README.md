@@ -22,7 +22,6 @@ Other Images / Previews:
 
 ![SidescrollerTemplatePreview3](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/d44b2f47-4e46-496c-a1c7-4815fa45f233)
 ![SidescrollerTemplatePreview2](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/b12a3aae-46f4-4357-9b45-6c8d2cd6e4e0)
-![SidescrollerTemplatePreview4](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/88107678-273e-45cf-9719-3b592a53d6d2)
 
 
 #### Credits: Matheus Laidler // License: MIT // Epic Games - Unreal Engine
