@@ -9,7 +9,7 @@ This foundational project is provided here for those who are looking to create a
 
 ![1stSidescrollerTemplatePreview](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/321f23c0-007d-4691-80bd-75e3a63e7174)
 
-We offer a comprehensive range of features found in other templates, such as the third-person template. Our template includes IK-Foot, retarget rig compatibility with both UE5 and UE4 skeletons, level prototypes, a 'New' input mode, and more. We've also fine-tuned essential elements like gravity, camera lag, and jumping mechanics, implementing numerous simple configurations to ensure smooth and satisfying gameplay, akin to the experience in others UE5 Templates or UE4 Default SideScroller Template.
+It offers a comprehensive range of features found in other templates, such as the third-person template. Our template includes IK-Foot, retarget rig compatibility with both UE5 and UE4 skeletons, level prototypes, a 'New' input mode, and more. We've also fine-tuned essential elements like gravity, camera lag, and jumping mechanics, implementing numerous simple configurations to ensure smooth and satisfying gameplay, akin to the experience in others UE5 Templates or UE4 Default SideScroller Template.
 
 ![SidescrollerTemplatePreview4](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/42d82957-495f-4269-a7b2-bb8a4f99b3d6)
 ![SidescrollerTemplatePreview1](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/a4a872ba-1527-4499-819c-dfba59f779a6)
