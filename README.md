@@ -1,4 +1,4 @@
-## Modern Sidescroller Template for UE5
+## Modern Sidescroller Template for UE5 (made in UE5.3)
 ![2ndSidescrollerTemplatePreview](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/9b74a957-e050-40bd-8add-181e7e92fed1)
 
 The traditional sidescroller template that was a staple in Unreal Engine 4 is no longer at your disposal. Maybe, this change arises from the recognition that the same sidescrolling style can now be seamlessly achieved using the third-person template (and some time to adapt). I did this repository to streamline your game development process and eliminate the need for constant template adjustments or the reliance on the outdated UE4 version. 
