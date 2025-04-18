@@ -1,5 +1,7 @@
-## Modern Sidescroller Template for UE5 (made in UE5.3)
+## Modern Sidescroller Template for UE5
 ![2ndSidescrollerTemplatePreview](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/9b74a957-e050-40bd-8add-181e7e92fed1)
+
+###### Made in UE5.3 – fully working in UE5.5, but only if downloaded via git clone. Downloading with GitHub’s browser button may cause missing assets due to Git LFS limitations.
 
 The traditional sidescroller template that was a staple in Unreal Engine 4 is no longer at your disposal. Maybe, this change arises from the recognition that the same sidescrolling style can now be seamlessly achieved using the third-person template (and some time to adapt). I did this repository to streamline your game development process and eliminate the need for constant template adjustments or the reliance on the outdated UE4 version. 
 
@@ -17,7 +19,22 @@ It offers a comprehensive range of features found in other templates, such as th
 Tested with my own character made with UE4 Skeleton (Don't need to retarget)
 ![CustomCharPreview](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/b4a20fbc-510d-48b2-9cdc-f63c65c28dd1)
 
-Other Images / Previews:
+### Important Notice About GitHub Downloads  
+If you download the project using the GitHub browser button, `.umap` files tracked with Git LFS may appear as 1KB placeholders, causing issues when opening the project. To ensure all assets are correctly retrieved, **clone the repository using Git and Git LFS**:
+
+```sh
+git clone --recursive https://github.com/matheuslaidler/ModernSidescrollerTemplate.git
+git lfs pull
+```
+
+This guarantees that all Unreal Engine assets, including `.umap` files, are properly downloaded and usable.  
+For more details on this Git LFS limitation, check [GitHub’s documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage).  
+
+If you download the project using GitHub's browser button, .umap files and other assets tracked with Git LFS may appear as 1KB placeholders, causing issues when opening the project.
+
+While you can manually download each file separately from the repository (and they will have the correct size), you would need to replace all affected files, not just the .umap, to make the project work. Since this process can be tedious and error-prone, the best way to ensure everything functions correctly is to clone the repository using Git, cause this guarantees that all Unreal Engine assets are properly downloaded, avoiding any missing or corrupted files.
+
+### Other Images / Previews:
 
 
 ![SidescrollerTemplatePreview3](https://github.com/matheuslaidler/ModernSidescrollerTemplate/assets/76860503/d44b2f47-4e46-496c-a1c7-4815fa45f233)
